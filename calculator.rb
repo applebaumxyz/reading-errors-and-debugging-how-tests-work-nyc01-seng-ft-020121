@@ -5,5 +5,7 @@ def first_number
   puts (number).to_i
 end
 
-numbers
+first_number
+
+
 
