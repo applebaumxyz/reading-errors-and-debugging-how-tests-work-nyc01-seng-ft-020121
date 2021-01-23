@@ -1,11 +1,9 @@
 # Add your variables here
 
-def first_number(num)
-  number = num
+def first_number
+  number = 10
   puts (number).to_i
 end
 
-first_number
-
-
+numbers
 
